@@ -1,0 +1,5 @@
+# Visual Studio
+.vs/\n*.sln.docstates\n*.user\n*.userprefs\n*.suo\n*.sln.ide\n*.sln.ide.tmp\n\n# Build results
+[Dd]ebug/\n[Rr]elease/\n[Aa]ssets/\n[Ll]og/\n[Aa]bsolute/\n\n# Visual Studio 2019
+.vs/\nobj/\nbin/\n\n# Other
+*.dbmdl\n*.dbproj.schemaview\n*.jfm\n*.token
